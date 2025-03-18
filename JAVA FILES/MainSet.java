@@ -110,6 +110,7 @@ public class MainSet {
                         set1[i] = color;
                         break;
                     } else {
+                        System.out.println("Hello");
                         System.out.println("Invalid color. Please enter a valid color from the universal set.");
                     }
                 }
